@@ -1,0 +1,22 @@
+{
+  "name": "nodepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "knex": "^0.14.4",
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
